@@ -9,7 +9,7 @@ The database has been built to serve the purpose of analyzing songs that users a
 
 
 ## Files description
-1. Apache-Cassandra-ETL.ipynb : Has scripts that are run to test the ETL pipeline by loading contents from data folders to Apache Cassamdra cluster.
+1. Project_1B_ Project_Template.ipynb : Has scripts that are run to test the ETL pipeline by loading contents from data folders to Apache Cassamdra cluster.
 
 ## Data files
  song_data : Contains daily activity logs from the app for the month 11/2018.
