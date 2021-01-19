@@ -1,7 +1,7 @@
 # Apache-Cassandra-ETL-pipeline
 =======
 ## Purpose of Project
-The database has been built to serve the purpose of analyzing songs that users are listening to on Sparkify (music streaming app). This project has scripts to create database tables according to the desired schema, loads data from csv files and inserts into a table on Apache Cassandra cluster. Only neccessary information of users, songs and artists that are required for analysis are loaded into a final csv file. A new custom table is designed out of the final csv file for each query.
+The database has been built to serve the purpose of analyzing songs that users are listening to on Sparkify (music streaming app). This project has scripts to create database tables according to the query, loads data from csv files and inserts into a table on Apache Cassandra cluster. Only neccessary information of users, songs and artists that are required for analysis are loaded into a final csv file. A new custom table is designed out of the final csv file for each query.
 
 ## Tools used
 - Database:  Apache Cassandra
